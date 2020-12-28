@@ -3,7 +3,7 @@
     <title>Homepage</title>
 </head>
 
-<h1>About Steven Doss</h1>
+<h1 style="text-align: center">About Steven Doss</h1>
 
 
 </html>
