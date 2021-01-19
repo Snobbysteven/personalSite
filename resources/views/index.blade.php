@@ -26,6 +26,8 @@
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/Snobbysteven" target="_blank" tabindex="-1" >GitHub</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.notion.so/Resume-0510ebe8d4044eab913130c1c7414fbf" target="_blank" tabindex="-1" >Resume</a>
       </ul>
     </div>
   </div>
